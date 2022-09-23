@@ -30,6 +30,7 @@
       <li>
         {{ head }}
       </li>
+      <br>
       <li>{{ description }}}</li>
 
       <p></p>

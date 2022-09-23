@@ -1,5 +1,5 @@
 <template>
-  <h2>Little Indian Restro</h2>
+  <h2>SLV Recipe Book</h2>
   <ul>
     <dish-details
       v-for="dish in dishes"
